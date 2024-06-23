@@ -31,4 +31,4 @@ JavaScript                 2 hrs           █▓░░░░░░░░░░�
 ## Let's Connect 🤝 
 
 <a href="https://www.linkedin.com/in/leandrovitto/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="25"></a>
-<a href="https://www.youtube.com/codewavedev_"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-1024.png" width="25"></a><a href="https://leandrovitto.com/"><img src="https://cdn1.iconfinder.com/data/icons/business-startup-14/60/Development-512.png" width="25"></a>
+<a href="https://www.youtube.com/@codewavedev_"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-1024.png" width="25"></a><a href="https://leandrovitto.com/"><img src="https://cdn1.iconfinder.com/data/icons/business-startup-14/60/Development-512.png" width="25"></a>
