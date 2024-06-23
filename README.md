@@ -19,6 +19,10 @@ JavaScript                 2 hrs           █▓░░░░░░░░░░�
 🚧 **my todoist stats:**
 
 <!-- TODO-IST:START -->
+🏆  200 Karma Points           
+🌸  Completed 2 tasks today           
+✅  Completed 2 tasks so far           
+⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
 [![gists-readme](https://gists-readme.yizack.com/api?user=leandrovitto&title=&n=10)](https://gist.github.com/leandrovitto)
