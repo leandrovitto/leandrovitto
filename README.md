@@ -7,11 +7,11 @@ I'm Frontend Developer with Backend background from Italy. I enjoy building prod
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 29 hrs 27 mins  █████████████░░░░░░░░░░░░   52.21 %
-JSON                       16 hrs 29 mins  ███████▒░░░░░░░░░░░░░░░░░   29.23 %
-JavaScript                 3 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-Markdown                   1 hr 24 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-TSConfig                   1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+TypeScript                 28 hrs 36 mins  ██████████████▒░░░░░░░░░░   57.32 %
+JSON                       13 hrs 13 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
+JavaScript                 1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Markdown                   1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+TSConfig                   1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 
 <!--END_SECTION:waka-->
