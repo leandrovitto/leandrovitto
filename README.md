@@ -1,7 +1,7 @@
 Developer
 
-Hi, i'm Leandro 👋
-I'm Frontend Developer with Backend background from Italy. I enjoy building products and solving real-life problems with code. I work primarily as a frontend developer using React, Next.js, Vue.Js and other frameworks. I also have a background in backend development in Laravel, Spring and Node.js.
+Hi, I’m Leandro 👋
+I’m Software Engineer | Senior Frontend Developer with a strong background in Backend development and Infrastructure architecture. Based in Italy, I enjoy building innovative products and solving real-world problems through code. My expertise includes frontend technologies like React, Next.js, and Vue.js, as well as backend development in Node.js, Laravel, and Spring. I also have extensive experience in infrastructure architecture with Kubernetes, Azure, and AWS.
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
