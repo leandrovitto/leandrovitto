@@ -20,8 +20,8 @@ Bash         2 mins          █▒░░░░░░░░░░░░░░░
 
 <!-- TODO-IST:START -->
 🏆  290 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 2 tasks so far           
+🌸  Completed 1 tasks today           
+✅  Completed 3 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
