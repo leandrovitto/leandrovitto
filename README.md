@@ -7,11 +7,11 @@ I’m Software Engineer | Senior Frontend Developer with a strong background in 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs 33 mins   ████████████████████▓░░░░   83.32 %
-JSON         43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+TypeScript   6 hrs 52 mins   ███████████████████▓░░░░░   78.33 %
+JSON         59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+Bash         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+XML          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
