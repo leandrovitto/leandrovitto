@@ -12,7 +12,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-🚧 **my todoist stats:**
+🚧 **My Todoist stats:**
 
 <!-- TODO-IST:START -->
 🏆  323 Karma Points           
@@ -21,7 +21,18 @@ No activity tracked
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
+## My Gist
+
 [![gists-readme](https://gists-readme.yizack.com/api?user=leandrovitto&title=&n=10)](https://gist.github.com/leandrovitto)
+
+### CodeWaveDev
+
+Enthusiast Trainer and Youtube Speaker (100h+ Contents, 3KSubs) on technologies related to the world of web development.
+I created from scratch an e-learning platform to become a web developer codewave.dev
+
+<a href="https://codewave.dev" target="_blank" rel="noopener noreferrer">
+  <img src="images/logo_codewavedev.png" alt="CodeWaveDev Logo" width="100" height="100">
+</a>
 
 
 ## Let's Connect 🤝 
