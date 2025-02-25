@@ -34,7 +34,7 @@ TODO-IST:END -->
 <!-- ![leandrovitto's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrovitto&show_icons=true&theme=transparent) -->
 
 [![gists-readme](https://gists-readme.yizack.com/api/pin?id=71674a4428a74a12ff00bb0c91ad9155&owner=false&theme=dark)](https://gist.github.com/leandrovitto/71674a4428a74a12ff00bb0c91ad9155)
-[![gists-readme](https://gists-readme.yizack.com/api/pin?id=9e3216aa4ad753aa7af03133bddd21ec&owner=false&theme=dark)](https://gist.github.com/leandrovitto/9e3216aa4ad753aa7af03133bddd21ec)
+<!-- ![![gists-readme](https://gists-readme.yizack.com/api/pin?id=9e3216aa4ad753aa7af03133bddd21ec&owner=false&theme=dark)](https://gist.github.com/leandrovitto/9e3216aa4ad753aa7af03133bddd21ec)-->
 
 
 ### CodeWaveDev
