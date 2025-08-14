@@ -7,11 +7,11 @@ I’m Software Engineer | Senior Frontend Developer with a strong background in 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5,185 hrs 23 mins
+Total Time: 5,186 hrs 59 mins
 
-TypeScript                 2,931 hrs 50 mins██████████████░░░░░░░░░░░   55.61 %
-PHP                        485 hrs 21 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-JSON                       406 hrs 42 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+TypeScript                 2,933 hrs 16 mins██████████████░░░░░░░░░░░   55.62 %
+PHP                        485 hrs 21 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+JSON                       406 hrs 45 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
 Vue.js                     331 hrs 7 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
 JavaScript                 322 hrs 49 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
 ```
